@@ -43,7 +43,7 @@ public class PresetManager {
                 .setLibraryPathForEmulationArray(new String[]{
                         C.deps.LIBS_LINUX_X86_64
                 })
-                .setFmodLibraryPath(C.deps.LIBS_FMOD_20224)
+                .setFmodLibraryPath(C.deps.LIBS_FMOD_20309)
                 .setExtraJvmArgs(new String[0])
                 .setArgs(new String[]{
                         "-novoip"
